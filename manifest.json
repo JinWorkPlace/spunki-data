@@ -252,6 +252,15 @@
    "sha1": "ebccd8b2bc343669d7199861c460f3cb4aecf995",
    "slots": 14,
    "loopSeconds": 21.0035
+  },
+  {
+   "modId": "mod938",
+   "displayName": "Dumpling",
+   "zip": "mods/mod938.zip",
+   "bytes": 8363249,
+   "sha1": "e07656ba12632eac5a684831ac2d87b57dfba7d2",
+   "slots": 14,
+   "loopSeconds": 21.0035
   }
  ]
 }

@@ -2,7 +2,7 @@
 
 Mod pack cho app **Sky Beat Full Mod Music**. Mỗi mod 1 file zip, app tải khi user mở mod rồi giải nén vào `filesDir/mods/<modId>/`.
 
-- 28 pack, tổng 154.9 MB
+- 29 pack, tổng 162.9 MB
 - Base URL: `https://raw.githubusercontent.com/JinWorkPlace/spunki-data/master/mods`
 - Cấu trúc zip: `mods/<modId>/{rig.json,audio/*.ogg,icon/*.png,part/*.png}`
 
@@ -36,5 +36,6 @@ Mod pack cho app **Sky Beat Full Mod Music**. Mỗi mod 1 file zip, app tải kh
 | `mod935` | Sratd | 25 | 8.2333 | 9.4 MB | `624d5e487ae0` |
 | `mod936` | What sound like | 16 | 16.5517 | 6.7 MB | `07bb24638279` |
 | `mod937` | Your idol | 14 | 21.0035 | 6.5 MB | `ebccd8b2bc34` |
+| `mod938` | Dumpling | 14 | 21.0035 | 8.0 MB | `e07656ba1263` |
 
-Dựng lại pack: `.decompile/tools/pack_mods.py` trong repo app; kiểm bằng `check_packs.py`.
+Dựng lại pack: `.decompile/tools/pack_mods.py` trong repo app; kiểm bằng `check_packs.py`; đồng bộ repo này bằng `sync_data_repo.py`.
