@@ -1,0 +1,257 @@
+{
+ "baseUrl": "https://raw.githubusercontent.com/JinWorkPlace/spunki-data/master/mods",
+ "packs": [
+  {
+   "modId": "mod910",
+   "displayName": "Christmas Golden",
+   "zip": "mods/mod910.zip",
+   "bytes": 7296033,
+   "sha1": "95045eedd612cd7a9a389d74593de73afeb285ba",
+   "slots": 20,
+   "loopSeconds": 9.23
+  },
+  {
+   "modId": "mod911",
+   "displayName": "Phase3 Remasted",
+   "zip": "mods/mod911.zip",
+   "bytes": 10393963,
+   "sha1": "59f9eedc2c634727fc719ec6d4a1688212b7edad",
+   "slots": 20,
+   "loopSeconds": 10.2845
+  },
+  {
+   "modId": "mod912",
+   "displayName": "SPRUNKI POCOYO",
+   "zip": "mods/mod912.zip",
+   "bytes": 3424137,
+   "sha1": "8119c70d80c02e46ffa1b7d37252bd498b171ba7",
+   "slots": 11,
+   "loopSeconds": 10.0
+  },
+  {
+   "modId": "mod913",
+   "displayName": "Zootopia horror",
+   "zip": "mods/mod913.zip",
+   "bytes": 5952452,
+   "sha1": "dff3216827d047983f5f52e1785acb0400cd75c1",
+   "slots": 20,
+   "loopSeconds": 13.2
+  },
+  {
+   "modId": "mod914",
+   "displayName": "Zootopia normal",
+   "zip": "mods/mod914.zip",
+   "bytes": 3906707,
+   "sha1": "736d2b608ac0c5416669f648192b3c98b9a3227f",
+   "slots": 21,
+   "loopSeconds": 4.9333
+  },
+  {
+   "modId": "mod915",
+   "displayName": "POPPYPLAYTIME PHASE5",
+   "zip": "mods/mod915.zip",
+   "bytes": 5807611,
+   "sha1": "b9c258d8a27d63389e020d79c5b2926336bbe230",
+   "slots": 19,
+   "loopSeconds": 6.5045
+  },
+  {
+   "modId": "mod916",
+   "displayName": "Poppy",
+   "zip": "mods/mod916.zip",
+   "bytes": 3138492,
+   "sha1": "a2379d59e7a37ee827d93ac3590fe8dec55a734b",
+   "slots": 19,
+   "loopSeconds": 4.8667
+  },
+  {
+   "modId": "mod917",
+   "displayName": "Oc2",
+   "zip": "mods/mod917.zip",
+   "bytes": 5360294,
+   "sha1": "f31eb42d7ca442e4c25017091d2a1d5fcf350f2f",
+   "slots": 20,
+   "loopSeconds": 9.4
+  },
+  {
+   "modId": "mod918",
+   "displayName": "Avatar Sprunki OC 3",
+   "zip": "mods/mod918.zip",
+   "bytes": 5704342,
+   "sha1": "daa096916fbf6915b29a1224d4fd6e8b5990026f",
+   "slots": 15,
+   "loopSeconds": 8
+  },
+  {
+   "modId": "mod919",
+   "displayName": "Hungry Worm Horror",
+   "zip": "mods/mod919.zip",
+   "bytes": 5616451,
+   "sha1": "7c5a245180ed4eb952bae0b21c17d6b7b49bc400",
+   "slots": 20,
+   "loopSeconds": 9.88
+  },
+  {
+   "modId": "mod920",
+   "displayName": "Hungry Worrm Pyramixed",
+   "zip": "mods/mod920.zip",
+   "bytes": 5585682,
+   "sha1": "f8c5201034141de8e58b9397fc9ea742f7b50025",
+   "slots": 21,
+   "loopSeconds": 8.0007
+  },
+  {
+   "modId": "mod921",
+   "displayName": "Brainrot",
+   "zip": "mods/mod921.zip",
+   "bytes": 4907562,
+   "sha1": "8f240cb712c3e4708abf9937c0674f3445a16d8f",
+   "slots": 13,
+   "loopSeconds": 7.749
+  },
+  {
+   "modId": "mod922",
+   "displayName": "Demon sodapop",
+   "zip": "mods/mod922.zip",
+   "bytes": 3551871,
+   "sha1": "abf67a88275ad766996c5738adfbe7c02bd172df",
+   "slots": 7,
+   "loopSeconds": 14.9942
+  },
+  {
+   "modId": "mod923",
+   "displayName": "Horror original",
+   "zip": "mods/mod923.zip",
+   "bytes": 6007483,
+   "sha1": "87e1b9d5541b0bdf8e4bca7d016e775cb3f1e57c",
+   "slots": 19,
+   "loopSeconds": 13.2
+  },
+  {
+   "modId": "mod924",
+   "displayName": "Horror pyramix",
+   "zip": "mods/mod924.zip",
+   "bytes": 5959961,
+   "sha1": "d186cfd556b78f3c22ed3072c24adf77b1bf6d86",
+   "slots": 20,
+   "loopSeconds": 9.8801
+  },
+  {
+   "modId": "mod925",
+   "displayName": "How it done",
+   "zip": "mods/mod925.zip",
+   "bytes": 8365153,
+   "sha1": "c16d27fb65212f31e607e473c33d3d8547cc24cb",
+   "slots": 16,
+   "loopSeconds": 23.9961
+  },
+  {
+   "modId": "mod926",
+   "displayName": "Christmas Jingle Bell",
+   "zip": "mods/mod926.zip",
+   "bytes": 4641716,
+   "sha1": "d4d0a8fda8085be745b95c3c943f356500e45b3a",
+   "slots": 20,
+   "loopSeconds": 9.2308
+  },
+  {
+   "modId": "mod927",
+   "displayName": "Kpop",
+   "zip": "mods/mod927.zip",
+   "bytes": 6877761,
+   "sha1": "db345354e84f543843266fa2ec1e0d93fd48b0c7",
+   "slots": 14,
+   "loopSeconds": 15.36
+  },
+  {
+   "modId": "mod928",
+   "displayName": "Normal original",
+   "zip": "mods/mod928.zip",
+   "bytes": 3858309,
+   "sha1": "17cac15a8685ee77f8fb6da647e14566a31b5baa",
+   "slots": 19,
+   "loopSeconds": 4.8
+  },
+  {
+   "modId": "mod929",
+   "displayName": "Pyramix normal",
+   "zip": "mods/mod929.zip",
+   "bytes": 5289706,
+   "sha1": "7332a8cee748cacfc764f4fad46767ecebd6749b",
+   "slots": 20,
+   "loopSeconds": 8.0007
+  },
+  {
+   "modId": "mod930",
+   "displayName": "Rat",
+   "zip": "mods/mod930.zip",
+   "bytes": 2749373,
+   "sha1": "0d97938a57fb73747a9336a5b9460f612201b7f4",
+   "slots": 12,
+   "loopSeconds": 7.749
+  },
+  {
+   "modId": "mod931",
+   "displayName": "Repo",
+   "zip": "mods/mod931.zip",
+   "bytes": 6008626,
+   "sha1": "4afcea7ebc9c8358a3e2ee6549ef65ebb9adc784",
+   "slots": 24,
+   "loopSeconds": 7.749
+  },
+  {
+   "modId": "mod932",
+   "displayName": "Spranki horror",
+   "zip": "mods/mod932.zip",
+   "bytes": 5810322,
+   "sha1": "d10f86aa4b00cd056453074085770ba894730b27",
+   "slots": 14,
+   "loopSeconds": 10.0832
+  },
+  {
+   "modId": "mod933",
+   "displayName": "Spranki normal",
+   "zip": "mods/mod933.zip",
+   "bytes": 6430194,
+   "sha1": "3bc338b5d1e6e493b31883af0d23a227e90d6a1e",
+   "slots": 21,
+   "loopSeconds": 4.8333
+  },
+  {
+   "modId": "mod934",
+   "displayName": "Squid game",
+   "zip": "mods/mod934.zip",
+   "bytes": 6048650,
+   "sha1": "03fce9c12c5e0b155cb5acf1f244d01010dc59af",
+   "slots": 19,
+   "loopSeconds": 9.1429
+  },
+  {
+   "modId": "mod935",
+   "displayName": "Sratd",
+   "zip": "mods/mod935.zip",
+   "bytes": 9865084,
+   "sha1": "624d5e487ae0dee224f49c6da685277c5f660b28",
+   "slots": 25,
+   "loopSeconds": 8.2333
+  },
+  {
+   "modId": "mod936",
+   "displayName": "What sound like",
+   "zip": "mods/mod936.zip",
+   "bytes": 6984784,
+   "sha1": "07bb246382798c4452090206dfcd23dca851b95d",
+   "slots": 16,
+   "loopSeconds": 16.5517
+  },
+  {
+   "modId": "mod937",
+   "displayName": "Your idol",
+   "zip": "mods/mod937.zip",
+   "bytes": 6855437,
+   "sha1": "ebccd8b2bc343669d7199861c460f3cb4aecf995",
+   "slots": 14,
+   "loopSeconds": 21.0035
+  }
+ ]
+}
